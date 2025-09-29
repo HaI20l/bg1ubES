@@ -101,7 +101,7 @@ ACTION_IF NOT GAME_IS ~bgee~ THEN BEGIN // Already included in BGEE
   ////////////////////////////////////////////////////////////////////////////////////////
   // Low Lantern
   COPY_EXISTING ~%tutu_var%BART15.CRE~ ~override/UBBA0133.CRE~
-    WRITE_ASCII 0x2cc ~UBBA0133~
+    WRITE_ASCII 0x2cc ~UBBA0133~ (8)
 
   COPY_EXISTING ~%tutu_var%bart15.dlg~ ~override/ubba0133.dlg~
 
@@ -202,7 +202,7 @@ BUT_ONLY
 
 COMPILE EVALUATE_BUFFER ~bg1ub/stores/ubin3304.baf~  // Add stealing script to bartender
 COPY_EXISTING ~%tutu_var%BART4.CRE~ ~override~
-  WRITE_ASCII 0x260 ~UBIN3304~
+  WRITE_ASCII 0x260 ~UBIN3304~ (8)
 
 ////////////////////////////////////////////////////////////////////////////////////////
 // Ulgoth's Beard Store and Inn fixes
@@ -227,7 +227,7 @@ END
 ////////////////////////////////////////////////////////////////////////////////////////
 // More Nashkel Carnival Merchants
 COPY_EXISTING ~%tutu_var%MERCH2.CRE~ ~override/UBMERCH.CRE~
-  WRITE_ASCII 0x2cc ~UBMERCH~
+  WRITE_ASCII 0x2cc ~UBMERCH~ (8)
 
 COPY_EXISTING ~%tutu_var%merch2.dlg~ ~override/ubmerch.dlg~
 

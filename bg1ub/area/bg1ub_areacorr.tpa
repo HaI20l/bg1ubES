@@ -12,7 +12,7 @@ END
 
   // Assign the Halfling Enforcers the INITDLG script
 COPY_EXISTING ~%tutu_var%HALFEN.CRE~ ~override~
-  	WRITE_ASCIIE 0x258 ~%tutu_var%INITDLG~
+  	WRITE_ASCIIE 0x258 ~%tutu_var%INITDLG~ (8)
 BUT_ONLY
 
   // Script to spawn Halfling Enforcers if caught stealing
@@ -43,22 +43,22 @@ PATCH_IF (trigOff) BEGIN
    READ_ASCII trigOff name (10)   // Trigger name
    READ_SHORT trigOff + 0x20 type // Trigger type
    PATCH_IF !("%name%" STRING_COMPARE_CASE "FIREDRAKE1" || type) BEGIN
-     WRITE_ASCIIE trigOff + 0x7c ~%tutu_scriptf%DRAKET1~ // Firedrake Trap 1, sets new script
+     WRITE_ASCIIE trigOff + 0x7c ~%tutu_scriptf%DRAKET1~ (8) // Firedrake Trap 1, sets new script
    END ELSE
    PATCH_IF !("%name%" STRING_COMPARE_CASE "FIREDRAKE2" || type) BEGIN
-     WRITE_ASCIIE trigOff + 0x7c ~%tutu_scriptf%DRAKET2~ // Firedrake Trap 2, sets new script
+     WRITE_ASCIIE trigOff + 0x7c ~%tutu_scriptf%DRAKET2~ (8) // Firedrake Trap 2, sets new script
    END ELSE
    PATCH_IF !("%name%" STRING_COMPARE_CASE "FIREDRAKE3" || type) BEGIN
-     WRITE_ASCIIE trigOff + 0x7c ~%tutu_scriptf%DRAKET3~ // Firedrake Trap 3, sets new script
+     WRITE_ASCIIE trigOff + 0x7c ~%tutu_scriptf%DRAKET3~ (8) // Firedrake Trap 3, sets new script
    END ELSE
    PATCH_IF !("%name%" STRING_COMPARE_CASE "FIREDRAKE4" || type) BEGIN
-     WRITE_ASCIIE trigOff + 0x7c ~%tutu_scriptf%DRAKET4~ // Firedrake Trap 4, sets new script
+     WRITE_ASCIIE trigOff + 0x7c ~%tutu_scriptf%DRAKET4~ (8) // Firedrake Trap 4, sets new script
    END ELSE
    PATCH_IF !("%name%" STRING_COMPARE_CASE "FIREDRAKE5" || type) BEGIN
-     WRITE_ASCIIE trigOff + 0x7c ~%tutu_scriptf%DRAKET5~ // Firedrake Trap 5, sets new script
+     WRITE_ASCIIE trigOff + 0x7c ~%tutu_scriptf%DRAKET5~ (8) // Firedrake Trap 5, sets new script
    END ELSE
    PATCH_IF !("%name%" STRING_COMPARE_CASE "FIREDRAKE6" || type) BEGIN
-     WRITE_ASCIIE trigOff + 0x7c ~%tutu_scriptf%DRAKET6~ // Firedrake Trap 6, sets new script
+     WRITE_ASCIIE trigOff + 0x7c ~%tutu_scriptf%DRAKET6~ (8) // Firedrake Trap 6, sets new script
    END
    trigOff += 0xc4
  END
@@ -80,7 +80,7 @@ COPY_EXISTING ~%CentralBaldursGate_House6_L1%.are~ ~override~
     READ_LONG ("%actor%" + 0x84) "actorresref2"
     WHILE (("%actorresref1%" = 0x4c524947) AND ("%actorresref2%" = 0x00314142)) OR //BG
           (("%actorresref1%" = 0x454b3031) AND ("%actorresref2%" = 0x00000047)) BEGIN //BGT or Tutu
-      WRITE_ASCIIE ("%actor%" + 0x80) ~%tutu_var%GIRBA1~
+      WRITE_ASCIIE ("%actor%" + 0x80) ~%tutu_var%GIRBA1~ (8)
       WRITE_SHORT ("%actor%" + 0x86) 0x0000
       READ_LONG ("%actor%" + 0x80) "actorresref1"
       READ_LONG ("%actor%" + 0x84) "actorresref2"

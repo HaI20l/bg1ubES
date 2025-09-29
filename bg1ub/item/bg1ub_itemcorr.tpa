@@ -2,91 +2,91 @@
 
 // Ground, inventory and description icon restorations (NiGHTMARE)
 COPY_EXISTING ~%tutu_var%book68.itm~ ~override~ // History of the Nether Scrolls
-  WRITE_ASCIIE 0x3a "%tutu_var%ibook68"
+  WRITE_ASCIIE 0x3a "%tutu_var%ibook68" (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%boot06.itm~ ~override~ // Worn Out Boots
-  WRITE_ASCIIE 0x3a "%tutu_var%iboot06"
-  WRITE_ASCIIE 0x58 "%tutu_var%cboot06"
+  WRITE_ASCIIE 0x3a "%tutu_var%iboot06" (8)
+  WRITE_ASCIIE 0x58 "%tutu_var%cboot06" (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%brac11.itm~ ~override~ // Bracers Of Binding
   PATCH_IF (%SOURCE_SIZE% > 0) BEGIN
-    WRITE_ASCIIE 0x3a "%tutu_var%ibrac11"
-    WRITE_ASCIIE 0x58 "%tutu_var%cbrac11"
+    WRITE_ASCIIE 0x3a "%tutu_var%ibrac11" (8)
+    WRITE_ASCIIE 0x58 "%tutu_var%cbrac11" (8)
   END
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%clck08.itm~ ~override~ // Algeron's Cloak
-  WRITE_ASCIIE 0x58 "%tutu_var%cclck08"
+  WRITE_ASCIIE 0x58 "%tutu_var%cclck08" (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%misc13.itm~ ~override~ // Samuel's Body
-  WRITE_ASCIIE 0x44 "%tutu_var%gmisc13"
+  WRITE_ASCIIE 0x44 "%tutu_var%gmisc13" (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%misc1a.itm~ ~override~ // Bottle Of Wine
   PATCH_IF (%SOURCE_SIZE% > 0) BEGIN
-    WRITE_ASCIIE 0x3a "%tutu_var%imisc1a"
+    WRITE_ASCIIE 0x3a "%tutu_var%imisc1a" (8)
   END
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%misc1b.itm~ ~override~ // Butter Knife Of Balduran
   PATCH_IF (%SOURCE_SIZE% > 0) BEGIN
-    WRITE_ASCIIE 0x58 "%tutu_var%cmisc1b"
+    WRITE_ASCIIE 0x58 "%tutu_var%cmisc1b" (8)
   END
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%misc62.itm~ ~override~ // Dead Cat
-  WRITE_ASCIIE 0x44 "%tutu_var%gmisc62"
+  WRITE_ASCIIE 0x44 "%tutu_var%gmisc62" (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%misc65.itm~ ~override~ // Brage's Body
-  WRITE_ASCIIE 0x3a "%tutu_var%imisc65"
-  WRITE_ASCIIE 0x44 "%tutu_var%gmisc65"
+  WRITE_ASCIIE 0x3a "%tutu_var%imisc65" (8)
+  WRITE_ASCIIE 0x44 "%tutu_var%gmisc65" (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%misc68.itm~ ~override~ // Abela's Body
-  WRITE_ASCIIE 0x3a "%tutu_var%imisc68"
-  WRITE_ASCIIE 0x44 "%tutu_var%gmisc68"
+  WRITE_ASCIIE 0x3a "%tutu_var%imisc68" (8)
+  WRITE_ASCIIE 0x44 "%tutu_var%gmisc68" (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%misc70.itm~ ~override~ // Delorna's Statue
-  WRITE_ASCIIE 0x3a "%tutu_var%imisc70"
+  WRITE_ASCIIE 0x3a "%tutu_var%imisc70" (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%misc71.itm~ ~override~ // Delorna's Spellbook
-  WRITE_ASCIIE 0x3a "%tutu_var%imisc71"
+  WRITE_ASCIIE 0x3a "%tutu_var%imisc71" (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%misc75.itm~ ~override~ // Dagger Of Venom
-  WRITE_ASCIIE 0x3a "%tutu_var%imisc75"
+  WRITE_ASCIIE 0x3a "%tutu_var%imisc75" (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%misc76.itm~ ~override~ // Dream Potion
-  WRITE_ASCIIE 0x3a "%tutu_var%imisc76"
-  WRITE_ASCIIE 0x58 "%tutu_var%cpotn13"
+  WRITE_ASCIIE 0x3a "%tutu_var%imisc76" (8)
+  WRITE_ASCIIE 0x58 "%tutu_var%cpotn13" (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%misc77.itm~ ~override~ // Skull Of Kereph
-  WRITE_ASCIIE 0x3a "%tutu_var%imisc77"
+  WRITE_ASCIIE 0x3a "%tutu_var%imisc77" (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%misc92.itm~ ~override~ // Switch For An Engine
   PATCH_IF (%SOURCE_SIZE% > 0) BEGIN
-    WRITE_ASCIIE 0x44 "%tutu_var%gmisc92"
+    WRITE_ASCIIE 0x44 "%tutu_var%gmisc92" (8)
   END
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%misc94.itm~ ~override~ // Mallet Head
   PATCH_IF (%SOURCE_SIZE% > 0) BEGIN
-    WRITE_ASCIIE 0x44 "%tutu_var%gmisc94"
+    WRITE_ASCIIE 0x44 "%tutu_var%gmisc94" (8)
   END
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%misc95.itm~ ~override~ // Mallet Handle
   PATCH_IF (%SOURCE_SIZE% > 0) BEGIN
-    WRITE_ASCIIE 0x44 "%tutu_var%gmisc95"
+    WRITE_ASCIIE 0x44 "%tutu_var%gmisc95" (8)
   END
 BUT_ONLY
 
@@ -141,7 +141,7 @@ EXTEND_BOTTOM ~%temp_cpmvar%.bcs~ ~.../bg1ub/br_0102.baf~
 
 COPY_EXISTING ~%tutu_var%MISC1H.ITM~ ~override~ // Gong Mallet
   PATCH_IF (SOURCE_SIZE > 0x71) BEGIN
-    WRITE_ASCIIE ~0x44~ ~%tutu_var%GBLUN06~ // Assign GBLUN06.BAM as the ground icon
+    WRITE_ASCIIE ~0x44~ ~%tutu_var%GBLUN06~ (8) // Assign GBLUN06.BAM as the ground icon
   END
 BUT_ONLY
 
@@ -224,13 +224,13 @@ BUT_ONLY
 
 ACTION_IF NOT GAME_IS ~bgee~ THEN BEGIN // Skip for BGEE
 	COPY_EXISTING ~%tutu_var%BOLT03.ITM~ ~override~ // Bolt of Lightning
-  		WRITE_ASCIIE 0x11e ~%tutu_scripte%FF_M23C~ // Replace invalid wav file reference
+  		WRITE_ASCIIE 0x11e ~%tutu_scripte%FF_M23C~ (8) // Replace invalid wav file reference
 	BUT_ONLY
 END
 
 COPY_EXISTING ~%tutu_var%POTN41.ITM~ ~override~ // Potion of Power
               /*~%tutu_var%PTION41.ITM~ ~override~ - unused*/
-  WRITE_ASCIIE 0x44 ~%tutu_var%GPOTN01~ // Corrected ground icon
+  WRITE_ASCIIE 0x44 ~%tutu_var%GPOTN01~ (8) // Corrected ground icon
 BUT_ONLY
 
 /* unused
@@ -239,7 +239,7 @@ COPY_EXISTING ~%tutu_var%PTION41.ITM~ ~override~ // Potion of Power
 BUT_ONLY */
 
 COPY_EXISTING ~%tutu_var%BLUN06.ITM~ ~override~ // Morningstar
-  WRITE_ASCII 0x22 ~MS~ // Changes Inventory Icon ID from Mace to Morningstar
+  WRITE_ASCII 0x22 ~MS~ (2) // Changes Inventory Icon ID from Mace to Morningstar
 BUT_ONLY
 
 // Weapon colouration now works.  Thanks, CamDawg!
