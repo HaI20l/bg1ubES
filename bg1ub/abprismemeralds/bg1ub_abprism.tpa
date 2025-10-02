@@ -152,7 +152,7 @@ COPY_EXISTING ~%tutu_var%prism.cre~ ~override~
    EXTEND_BOTTOM ~%overridescript%.bcs~ ~bg1ub/abprismemeralds/abgfprsm.baf~ //add our stuff -- creates new if doesn't exist
   END
  END ELSE BEGIN
-  WRITE_ASCIIE 0x0248 ~abgfprsm~
+  WRITE_ASCIIE 0x0248 ~abgfprsm~ (8)
   READ_ASCII 0x0248 ~overridescript~
   INNER_ACTION BEGIN
    EXTEND_BOTTOM ~%overridescript%.bcs~ ~bg1ub/abprismemeralds/abgfprsm.baf~ //add our stuff -- creates new if doesn't exist

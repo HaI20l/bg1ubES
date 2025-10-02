@@ -264,8 +264,8 @@ COPY_EXISTING ~%EBaldursGate_ElfsongTavern_L1%.ARE~ ~override~ // Elfsong
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%FRIWEN.CRE~ ~override~ // Serving Wench
-  WRITE_ASCIIE 0x2cc ~%tutu_var%FRIWEN~ // Assigns the unused dialog, FRIWEN.DLG
-  WRITE_ASCII 0x280 ~FRIWEN~ // Assigns a script name
+  WRITE_ASCIIE 0x2cc ~%tutu_var%FRIWEN~ (8) // Assigns the unused dialog, FRIWEN.DLG
+  WRITE_ASCII 0x280 ~FRIWEN~ (32) // Assigns a script name
 BUT_ONLY
 
 // Add the Serving Wench to the Friendly Arm Inn
@@ -446,8 +446,8 @@ LAF extend_area_script STR_VAR area="%SWBaldursGate%" bottom=".../bg1ub/ub_ar110
 
 COPY_EXISTING ~%tutu_var%WILTON.CRE~ ~override~
   ADD_CRE_ITEM ~%tutu_var%CLCK01~ #1 #0 #0 ~NONE~ ~INV1 INV2~ // Adds Cloak of Protection +1
-  WRITE_ASCII 0x2cc ~UBWILTON~                      // Assigns edited dialog file
-  WRITE_ASCII 0x280 ~Wilton~                        // Assigns death variable
+  WRITE_ASCII 0x2cc ~UBWILTON~ (8)                  // Assigns edited dialog file
+  WRITE_ASCII 0x280 ~Wilton~ (32)                   // Assigns death variable
   WRITE_BYTE 0x23f 0x8                              // Fix his morale setting
   WRITE_BYTE 0x240 0x6                              // Fix his morale break setting
 BUT_ONLY

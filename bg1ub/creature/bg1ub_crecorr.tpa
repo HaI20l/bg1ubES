@@ -89,7 +89,7 @@ COPY_EXISTING ~%tutu_var%ITASLOI.CRE~ ~override~  // Assigns the Taslois the Tas
               ~%tutu_scriptt%ASLOI02.CRE~ ~override~
               ~%tutu_scriptt%ASLOI03.CRE~ ~override~
               ~%tutu_scriptt%ASLOISU.CRE~ ~override~
-  WRITE_ASCIIE 0x258 ~%tutu_var%TASLOIA~
+  WRITE_ASCIIE 0x258 ~%tutu_var%TASLOIA~ (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%WOLFWE.CRE~ ~override~ // Changes Class from Werewolf to Wolfwere
@@ -100,25 +100,25 @@ BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%GHOUL.CRE~ ~override~   // Assigns the Ghouls the Ghoul script
               ~%tutu_var%GHOULSU.CRE~ ~override~
-  WRITE_ASCIIE 0x258 ~%tutu_var%GHOUL~
+  WRITE_ASCIIE 0x258 ~%tutu_var%GHOUL~ (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%WOLFWI.CRE~ ~override~ // Assigns the Winter Wolf the Winter Wolf script
-  WRITE_ASCIIE 0x258 ~%tutu_scriptw%NTRWOLF~
+  WRITE_ASCIIE 0x258 ~%tutu_scriptw%NTRWOLF~ (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%WOLFVA.CRE~ ~override~ // Assigns the Vampiric Wolf the Vampiric Wolf script
-  WRITE_ASCIIE 0x258 ~%tutu_scriptv%AMPWOLF~
+  WRITE_ASCIIE 0x258 ~%tutu_scriptv%AMPWOLF~ (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%FEARM.CRE~ ~override~ // Assigns Fear the Revenant script
   PATCH_IF (SOURCE_SIZE > 0x2d4) BEGIN
-    WRITE_ASCIIE 0x250 ~%tutu_scriptr%EVENANT~
+    WRITE_ASCIIE 0x250 ~%tutu_scriptr%EVENANT~ (8)
   END
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%REVENT.CRE~ ~override~ // Assigns the Revenant the Revenant script
-  WRITE_ASCIIE 0x258 ~%tutu_scriptr%EVENANT~
+  WRITE_ASCIIE 0x258 ~%tutu_scriptr%EVENANT~ (8)
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%WINSKI2.CRE~ ~override~ // Assigns Winski Perorate the correct script
@@ -132,23 +132,23 @@ COPY_EXISTING ~%tutu_scriptw%YVERNBI.CRE~ ~override~ // Assigns the Greater Wyve
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%SKELETB.CRE~ ~override~ // Assign death variable
-  WRITE_ASCII 0x280 ~SKELETONB~
+  WRITE_ASCII 0x280 ~SKELETONB~ (32)
 BUT_ONLY
 
 //COPY_EXISTING ~%tutu_var%NOBW4.CRE~ ~override~  // Assign death variable
-//  WRITE_ASCII 0x280 ~Noblewoman4~
+//  WRITE_ASCII 0x280 ~Noblewoman4~ (32)
 //BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%KRYLA.CRE~ ~override~ // Kryla (AR1500)
   PATCH_IF (SOURCE_SIZE > 0x2d4) BEGIN
-    WRITE_ASCIIE 0x258 ~%tutu_scriptw%EREWOLF~   // Assign the Werewolf script
+    WRITE_ASCIIE 0x258 ~%tutu_scriptw%EREWOLF~ (8)   // Assign the Werewolf script
   END
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%MEMNIS.CRE~ ~override~ // Memnis (AR1500)
               ~%tutu_var%PALIN.CRE~ ~override~  // Palin (AR1500)
   PATCH_IF (SOURCE_SIZE > 0x2d4) BEGIN
-    WRITE_ASCIIE 0x258 ~%tutu_scriptw%OLFWERE~    // Assign the Wolfwere script
+    WRITE_ASCIIE 0x258 ~%tutu_scriptw%OLFWERE~ (8)   // Assign the Wolfwere script
   END
 BUT_ONLY
 
@@ -170,16 +170,16 @@ BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%ISLSIR.CRE~ ~override~ // Sirine Queen
   PATCH_IF (SOURCE_SIZE > 0x2d4) BEGIN
-    WRITE_ASCIIE 0x268 ~%tutu_scripti%SLANDSI~    // Assigns the ISLANDSI script as Default script
+    WRITE_ASCIIE 0x268 ~%tutu_scripti%SLANDSI~ (8)  // Assigns the ISLANDSI script as Default script
   END
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%OBERAN.CRE~ ~override~ // Oberan
-  WRITE_ASCIIE 0x248 ~%tutu_scripto%BESTATE~    // Assigns the OBESTATE script as OVERRIDE script
+  WRITE_ASCIIE 0x248 ~%tutu_scripto%BESTATE~ (8) // Assigns the OBESTATE script as OVERRIDE script
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%CHICKER.CRE~ ~override~ // Rabid Chicken
-  WRITE_ASCIIE 0x248 ~%tutu_scriptr%CHICKEN~     // Assigns the RCHICKEN script as OVERRIDE script
+  WRITE_ASCIIE 0x248 ~%tutu_scriptr%CHICKEN~ (8)  // Assigns the RCHICKEN script as OVERRIDE script
 BUT_ONLY
 
 COPY_EXISTING ~%tutu_var%SIL.CRE~ ~override~ // Sil
