@@ -63,16 +63,18 @@ Bala era un príncipe muy temperamental de un clan de enanos gully que fue escla
 
 CARACTERÍSTICAS:
 
-Aptitud especial: 
-  Magia equívoca afecta a la víctima con cada golpe recibido
-  (Magia equívoca: Cualquier criatura lanzadora de hechizos es afectada por esta propiedad. Cuando la criatura intenta lanzar un hechizo, tiene un 80% de probabilidades de fallo. Las criaturas pueden salvar contra hechizos con penalización de -2.)
+Habilidades de combate:
+- Magia equívoca: Si el golpe tiene éxito, inflige un efecto de estado que provoca un 80 % de probabilidades de fallo en el lanzamiento de conjuros, a menos que la víctima supere su tirada de salvación contra hechizos con una penalización de -2.
+
+Habilidades especiales:
+- Puede lanzar un conjuro de Disipar magia una vez al día.
 
 Daño: 1D8
 Tipo de daño: Cortante
 Peso: 6 lbs
 Factor de Velocidad: 7
 Talento marcial: Hacha
-Tipo: A una mano
+Tipo de arma: A una mano
 
 No permitido a:
  Clérigo
@@ -288,16 +290,18 @@ Bala era un príncipe muy temperamental de un clan de enanos gully que fue escla
 
 CARACTERÍSTICAS:
 
-Aptitud especial: 
-  Magia equívoca afecta a la víctima con cada golpe recibido
-  (Magia equívoca: Cualquier criatura lanzadora de hechizos es afectada por esta propiedad. Cuando la criatura intenta lanzar un hechizo, tiene un 80% de probabilidades de fallo. Las criaturas pueden salvar contra hechizos con penalización de -2.)
+Habilidades de combate:
+- Magia equívoca: Si el golpe tiene éxito, inflige un efecto de estado que provoca un 80 % de probabilidades de fallo en el lanzamiento de conjuros, a menos que la víctima supere su tirada de salvación contra hechizos con una penalización de -2.
+
+Habilidades especiales:
+- Puede lanzar un conjuro de Disipar magia una vez al día.
 
 Daño: 1D8
 Tipo de daño: Cortante
 Peso: 6 lbs
 Factor de Velocidad: 7
 Talento marcial: Hacha
-Tipo: Una mano~
+Tipo de arma: A una mano~
 
 // Unshey Dialog Restoration
 @120 = ~Guía práctica de salud corporal de la gran clérigo Unshey~
