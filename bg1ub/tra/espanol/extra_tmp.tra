@@ -40,7 +40,7 @@
 @10016 = ~Oh... perdona, pero llego tarde a clase.~ [%tutu_var%READR02]
 
 //#12238
-@10017 = ~Galken~
+@10017 = ~Galkin~
 
 //#4762
 @10018 = ~¿Nadie aceptará mi oferta? ¡Bah! ¡Sois todos unos tacaños!~ [%tutu_var%GALKN01]
@@ -76,7 +76,7 @@
 @10032 = ~Bienvenidos de nuevo. Pensaba que ya os habríais marchado. Sin embargo, es un placer que no lo hayáis hecho.~
 
 //#13345
-@10033 = ~Me sorprende volver a veros. ¿No os ha vuelto a atrapar la llamada del vagabundo? Por Dallillia, espero que ninguno de los niños os siga cuando os marchéis.~
+@10033 = ~Me sorprende volver a veros. ¿No os ha vuelto a atrapar la llamada del aventurero? Por Dallillia, espero que ninguno de los niños os siga cuando os marchéis.~
 
 //#13839
 @10034 = ~Varón mediano~
@@ -116,10 +116,10 @@
 @10048 = ~Ogrillón~
 
 //#5163
-@10049 = ~¡Es hora de una carnicería!~ [%tutu_var%OGRIL03]
+@10049 = ~¡Ha llegado la hora de hacer una matanza!~ [%tutu_var%OGRIL03]
 
 //#5164
-@10050 = ~¡Morid, renacuajos!~ [%tutu_var%OGRIL04]
+@10050 = ~¡Morid, mequetrefes!~ [%tutu_var%OGRIL04]
 @10051 = ~~ [%tutu_var%OGRIL05] //non-existent
 @10052 = ~~ [%tutu_var%OGRIL06] //non-existent
 @10053 = ~~ [%tutu_var%OGRIL08]
@@ -209,7 +209,7 @@
 @10093 = ~Meym~
 
 //#11081
-@10094 = ~¿Necesitáis algo, extraño?~ [%tutu_var%GENMG04]
+@10094 = ~¿Necesitáis algo, forastero?~ [%tutu_var%GENMG04]
 @10095 = ~~ [%tutu_var%MINER05]
 @10096 = ~~ [%tutu_var%MINER06]
 
@@ -224,15 +224,15 @@
 @10100 = ~Ogro~
 
 //#5148
-@10101 = ~¡Os aplastaré, os convertiré en papilla!~ [%tutu_var%OGREE03]
+@10101 = ~¡Yo trituraros, os aplastaré hasta morir!~ [%tutu_var%OGREE03]
 
 //#5149
-@10102 = ~¡Os machacaré la cara!~ [%tutu_var%OGREE04]
+@10102 = ~¡Yo romperos la cara!~ [%tutu_var%OGREE04]
 @10103 = ~~ [%tutu_var%OGREE08]
 @10104 = ~~ [%tutu_var%OGREE09]
 
 //#5147
-@10105 = ~Yo aplastar.~ [%tutu_var%OGREE01]
+@10105 = ~¡Os aplastaré!~ [%tutu_var%OGREE01]
 @10106 = ~~ [%tutu_var%OGREE02]
 
 //#10006
@@ -268,7 +268,7 @@
 @10126 = ~Ejecutor mediano~
 
 //#4925
-@10127 = ~Sois gente bastante extravagante para andar vagando por aquí.~ [%tutu_var%HALFL02]
+@10127 = ~Son un poco raros como para vagar por aquí.~ [%tutu_var%HALFL02]
 @10128 = ~~ [%tutu_var%FTOWN06]
 
 //#12245
@@ -348,7 +348,7 @@
 @10158 = ~¡Fuera de aquí, idiota petulante!~
 
 //#13607
-@10159 = ~¡Si volvéis a soltar una mano descuidada cerca de mí, os juro que la perderéis! Pedid en la barra.~
+@10159 = ~¡Si me volvéis a meter mano, os juro que la perderéis! Pedid en la barra.~
 @10160 = ~~ [%tutu_var%SWENC04]
 
 //#12894
@@ -373,8 +373,8 @@
 @10169 = ~~ [%tutu_scripta%MB_M34A]
 
 //#22786 - change Blunt Weapons to Club
-@10170 = ~La Raíz del Problema
-Se dice que este clava encantado existe desde la época de la caída de Netheril y el nacimiento del gran Desierto de Anauroch. Si bien el precio para la civilización fue alto, las verdaderas víctimas de esta era fueron las criaturas de la naturaleza, condenadas a observar cómo sus hogares se descomponían y morían. A medida que los hábitats retrocedían, los que quedaban eran invadidos por hordas de criaturas desplazadas, las más impacientes de las cuales marchaban sobre tierras vírgenes tomando lo que deseaban. Se dice que esta arma en particular provino del árbol de una dríada, un regalo final para la causa de la naturaleza de un espíritu del bosque que no pudo contener a los invasores de su tierra. El suyo fue un dolor agridulce, ya que su madera podría no haber sufrido tanto si no hubiera sido tan fuerte y exuberante. Eruditos con poco respeto han otorgado desde entonces el nombre irónico al objeto, aunque el humor no es apreciado entre los seguidores más devotos de la naturaleza.
+@10170 = ~La Raíz del Problema +1
+Se dice que este clava encantada existe desde la época de la caída de Netheril y el nacimiento del gran Desierto de Anauroch. Si bien el precio para la civilización fue alto, las verdaderas víctimas de esta era fueron las criaturas de la naturaleza, condenadas a observar cómo sus hogares se descomponían y morían. A medida que los hábitats desaparecían, los que quedaban eran invadidos por hordas de criaturas desplazadas, las más impacientes de las cuales marchaban sobre tierras vírgenes tomando lo que deseaban. Se dice que esta arma en particular provino del árbol de una dríada, un regalo final para la causa de la naturaleza de un espíritu del bosque que no pudo contener a los invasores de su tierra. El suyo fue un dolor agridulce, ya que su madera podría no haber sufrido tanto si no hubiera sido tan fuerte y exuberante. Eruditos con poco respeto han otorgado desde entonces el nombre irónico al objeto, aunque el humor no es apreciado entre los seguidores más devotos de la naturaleza.
 
 CARACTERÍSTICAS:
 
@@ -449,7 +449,7 @@ No permitido a:
 @20000 = ~Limpié con éxito las minas de Nashkel y fui recompensado generosamente por mis esfuerzos. 900 monedas de oro de Berrun Ghastkill y el agradecimiento de toda la ciudad. El hierro volverá a filtrarse lentamente hacia la costa ahora, aunque transportarlo sigue siendo un negocio traicionero. Habrá que ocuparse de los bandidos en los caminos.~
 
 //#5837
-@20001 = ~Taerom está fabricando una armadura de placas con mi caparazón de ankheg. Estará lista en una decana.~
+@20001 = ~Taerom está fabricando una armadura de placas con mi caparazón de ankheg. Estará lista en diez días.~
 
 //#187
 @20165 = ~Aún no está listo. Quizás en uno o dos días más. Ten paciencia; la calidad requiere tiempo.~
@@ -475,7 +475,7 @@ No permitido a:
 @20006 = ~¡¡RUFIE!! ¿Quién es un Rufie peludito? ¿Quiéeeeen es un pequeño peludito? ¡Muchísimas gracias! Será mejor que me lleve a este perrito perdido a casa de inmediato. Toma, quédate con esto. Es otro de sus juguetes para masticar, pero podemos conseguir más a donde vamos. Gracias de nuevo.~
 
 //#6509
-@20007 = ~Yo, esto... rescaté al 'pequeño' Rufie y se lo devolví al... niño... llamado Albert. No deseo saber a dónde fueron. Con suerte, nunca lo descubriré.~
+@20007 = ~Yo, esto... rescaté al "pequeño" Rufie y se lo devolví al... niño... llamado Albert. No deseo saber a dónde fueron. Con suerte, nunca lo descubriré.~
 
 //scar/ubscar.d
 //#10649
@@ -495,7 +495,7 @@ No permitido a:
 @20012 = ~Por favor, a menos que tengáis una poción de concentración mental, debo volver a mis meditaciones casi inútiles.~
 
 //#15539
-@20013 = ~A pesar de todas sus brutalidades, agradezco haber encontrado a gente como vosotros para suavizar los bordes más ásperos de esta ciudad. Podéis llamarme Quoningar, si queréis. Por favor, tomad este martillo mío para recordarme la próxima vez que os aventuréis en la batalla.~			   
+@20013 = ~Pese a todas sus brutalidades, agradezco haber encontrado a gente como vosotros para suavizar los bordes más ásperos de esta ciudad. Podéis llamarme Quoningar, si queréis. Por favor, tomad este martillo mío para recordarme la próxima vez que os aventuréis en la batalla.~
 
 //#15540
 @20014 = ~Pese a todas sus brutalidades, agradezco haber encontrado a personas como vosotros para suavizar los bordes más ásperos de esta ciudad. Podéis llamarme Quoningar, si queréis. Por favor, tomad estas pociones de bloqueo mágico. Tengo la sensación de que uno podría necesitarlas en estas calles.~
@@ -613,7 +613,7 @@ No permitido a:
 @20050 = ~Somos aventureros.~
 
 //#3995
-@20051 = ~Solo somos viajeros corrientes.~
+@20051 = ~Solo somos simples viajeros.~
 
 //#6601
 @20052 = ~Un granjero que conocimos en el Bosque de los Cedros nos ha dicho que alguien ha estado vertiendo residuos en el bosque.~
@@ -639,7 +639,7 @@ No permitido a:
 @20058 = ~¡Eh, tú! Necesito algo de dinero y algo de curación; ¡si sabes lo que te conviene, me lo darás!~
 
 //#5097
-@20059 = ~¡¿Tenéis que estar bromeando?! Eres un solo hobgoblin, ¿por qué deberíamos hacer otra cosa que no fuera matarte?~
+@20059 = ~¡¿Tenéis que estar bromeando?! Eres un solo gran trasgo, ¿por qué deberíamos hacer otra cosa que no fuera matarte?~
 
 //#5098
 @20060 = ~Toma, coge 25 piezas de oro.~
@@ -678,13 +678,13 @@ No permitido a:
 @20071 = ~Las Garras Negras son un grupo de mercenarios, son parte del grupo que ha estado asaltando las caravanas de mercaderes. Me perdí en una incursión hace un par de días, y algunos miembros del Puño Llameante me han estado siguiendo los pasos. Ahí está, os he dicho lo que queríais oír.~
 
 //#7013
-@20072 = ~Un hobgoblin nos dijo que trabajaba para una compañía de mercenarios conocida como los Escalofrío. Los Escalofrío han estado asaltando el Camino de la Costa.~
+@20072 = ~Un gran trasgo nos dijo que trabajaba para una compañía de mercenarios conocida como los Escalofrío. Los Escalofrío han estado asaltando el Camino de la Costa.~
 
 //#6529
 @20073 = ~Hola de nuevo, mis jóvenes aventureros. Veo que tenéis el componente necesario. Bueno, ¿vemos si nuestro joven recupera la vida o si acabará siendo la cena de algún salón de festejos?~
 
 //#7012
-@20074 = ~Un hobgoblin al que hechizamos nos dijo que trabajaba para una banda de mercenarios conocida como los Escalofrío. Según él, Escalofrío trabaja para los Zhentarim.~
+@20074 = ~Un gran trasgo al que hechizamos nos dijo que trabajaba para una banda de mercenarios conocida como los Escalofrío. Según él, Escalofrío trabaja para los Zhentarim.~
 
 //#6260
 @20075 = ~¡Dejadme en paz!~
@@ -726,7 +726,7 @@ No permitido a:
 @20087 = ~Siendo un buen amigo vuestro y todo eso, puedo deciros esto: hay un grupo de criaturas mezquinas parecidas a perros matando a mis hombres en la mina. ¡Tenéis que detenerlos!~
 
 //#16558
-@20088 = ~Hechicé al capataz de la mina de Nashkel. Afirmó que había criaturas "parecidas a perros" causando problemas abajo.~
+@20088 = ~Hechicé al capataz de la mina de Nashkel. Afirmó que había criaturas parecidas a perros causando problemas abajo.~
 
 //#14736
 @20089 = ~Ah, bueno, supongo que me dará la oportunidad de trabajar en esta nueva balada en la que he estado pensando... ¡apuesto a que nunca adivinaréis quiénes son los protagonistas!~
@@ -745,6 +745,7 @@ No permitido a:
 
 //#15353
 @20094 = ~Vaya, gracias, muchacho. Ese viejo e insolente zoquete podría haberme atrapado si no fuera por jóvenes e insolentes zoquetes como vosotros. Tomad, si vais a estar vagando por estas montañas un tiempo, podríais necesitar un mejor par de botas. En cuanto a mí, no me pagaríais lo suficiente para quedarme en este lugar.~
+~Vaya, gracias, muchacha. Ese viejo e insolente zoquete podría haberme atrapado si no fuera por jóvenes e insolentes zoquetes como vosotros. Tomad, si vais a estar vagando por estas montañas un tiempo, podríais necesitar un mejor par de botas. En cuanto a mí, no me pagaríais lo suficiente para quedarme en este lugar.~
 
 //#5710
 @20095 = ~¡Gracias! Se encuentra justo al oeste de Beregost. Thalantyr vive en una gran mansión allí. Me acurrucaré en vuestra mochila hasta que lleguemos.~
@@ -877,7 +878,7 @@ No permitido a:
 @20135 = ~¡Hola, amigos míos! Venid a ver hasta dónde deben llegar los ricos solo para proteger sus fortunas. Es una vida que no le desearía a nadie. Solo 80 piezas de oro por todo vuestro grupo, y no hago esto por cualquiera.~ 
 
 //#21711
-@20136 = ~¡Muy bien, acercaos, holgazanes! ¡100 piezas de oro por todos vosotros, pero os quedáis atrás! Y si os pillo robando una sola bolsa, os atravesaré. Es un lugar peligroso al que vamos, y ya he "perdido" gente antes.~ 
+@20136 = ~¡Muy bien, acercaos, holgazanes! ¡100 piezas de oro por todos vosotros, pero os quedáis atrás! Y si os pillo robando una sola bolsa, os atravesaré. Es un lugar peligroso al que vamos, y ya he perdido gente antes.~ 
 
 //#21712
 @20137 = ~No tengo otro precio, así que lo tomáis o lo dejáis.~
@@ -925,13 +926,13 @@ No permitido a:
 @20151 = ~Aún no las he matado a todas. Seguiré intentándolo.~
 
 //#21514
-@20152 = ~Hubo muertes cuando llegamos a este lugar, pero te aseguro que solo sobrevivieron aquellos que viven en paz. Huimos del barco que se hundía, nuestro hogar, y comenzamos una nueva vida. Hubo quienes no pudieron integrarse, no quisieron unirse y amenazaron de muerte a los fundadores.~ 
+@20152 = ~Hubo muertes cuando llegamos a este lugar, pero te aseguro que solo sobrevivieron aquellos que viven en paz. Huimos del barco que se hundía, nuestro hogar, y comenzamos una nueva vida. Había gente que no deseaba ser parte de esto, no querían unirse y amenazaron de muerte a los fundadores.~ 
 
 //#21517
 @20153 = ~Entonces todo salió bien. Sobrevivisteis y construisteis este hermoso hogar. Seguiré ayudándoos.~
 
 //#21519
-@20154 = ~¿A qué os referís con no ser capaz de pertenecer?~
+@20154 = ~¿Qué quieres decir con no ser parte de esto?~
 
 //stores/ubstores.d -> not used anymore. do not translate @20155 to @20163
 //#15365
@@ -990,19 +991,19 @@ No permitido a:
 
 //sharteel/rangelo.d
 //#2144
-@20174 = ~Tú no eres el comandante del Puño Llameante; ese título le pertenece al duque Eltan, alguien que se lo merece.  Tú eres un impostor, y además bastante feo y maloliente.  Un gibberling lobotomizado sería mejor líder que tú.~
+@20174 = ~Tú no eres el comandante del Puño Llameante; ese título le pertenece al duque Eltan, alguien que se lo merece. Tú eres un impostor, y además bastante feo y maloliente. Un gibberling lobotomizado sería mejor líder que tú.~
 
 //#6537 (add 'Afoul of the law')
 @20175 = ~En problemas con la ley. 
 
-Por alguna razón, el Duque Eltan ya no es el comandante del Puño Llameante. Un hombre llamado Angelo reclama ahora ese puesto.~																												 
+Por alguna razón, el Duque Eltan ya no es el comandante del Puño Llameante. Un hombre llamado Angelo reclama ahora ese puesto.~
 
 //BGT/Tutu SOLVED/UNSOLVED + Headers - DiaryEntries for Quoningar, added by Jarl
 
 //@20011 with header:
 @20176 = ~Tranquilidad en una ciudad bulliciosa. 
 
-El sacerdote Quoningar, aparentemente tan poco acostumbrado al bullicio interminable de la ciudad como yo, busca una poción de enfoque mental. Sin ella, dudo que termine nunca sus meditaciones...~
+El sacerdote Quoningar, aparentemente tan poco acostumbrado al bullicio interminable de la ciudad como yo, busca una poción de concentración mental. Sin ella, dudo que termine nunca sus meditaciones...~
 
 @20177 = ~Tranquilidad en una ciudad bulliciosa. 
 
@@ -1014,11 +1015,11 @@ Al llevar a Quoningar la poción que necesitaba para sus meditaciones, fuimos ge
 //@20018 with header:
 @20178 = ~Shilo Chen y los ogros magos. 
 
-Shilo Chen, un explorador del Bosque de los Cedros, busca ayuda actualmente en Baldur's Gate. Un grupo de ogros magos está acabando con la vida salvaje en la esquina suroeste del bosque. Me ha pedido que vaya allí y vea qué puedo hacer. Si encuentra a otros aventureros dispuestos, los enviará como refuerzos.~
+Shilo Chen, un explorador del Bosque de Dientes Afilados, busca ayuda actualmente en Baldur's Gate. Un grupo de ogros magos está acabando con la vida salvaje en la esquina suroeste del bosque. Me ha pedido que vaya allí y vea qué puedo hacer. Si encuentra a otros aventureros dispuestos, los enviará como refuerzos.~
 
 @20179 = ~Shilo Chen y los ogros magos. 
 
-Tras derrotar a los ogros magos en el Bosque de los Cedros, Shilo Chen nos ha recompensado generosamente.~
+Tras derrotar a los ogros magos en el Bosque de Dientes Afilados, Shilo Chen nos ha recompensado generosamente.~
 
 
 
@@ -1033,7 +1034,7 @@ Tras derrotar a los ogros magos en el Bosque de los Cedros, Shilo Chen nos ha re
 @30001 = ~¿Sois siempre así de cortés con los extraños que entran en vuestra casa? No me parece nada seguro.~ 
 
 //#7821
-@30002 = ~Ahórrate tus sonrisas, tapón. Solo he entrado para ver si tenías algo que valiera la pena llevarse. Eres un necio por dejar tu madriguera sin cerrar.~ 
+@30002 = ~Ahórrate tus sonrisas, pequeñajo. Solo he entrado para ver si tenías algo que valiera la pena llevarse. Eres un necio por dejar tu madriguera sin cerrar.~ 
 
 //#7823
 @30003 = ~Mis disculpas, pero la puerta estaba abierta y pensé que vuestra madriguera estaba desierta. No pretendía entrometerme en vuestro hogar.~ 
@@ -1050,13 +1051,13 @@ Tras derrotar a los ogros magos en el Bosque de los Cedros, Shilo Chen nos ha re
 @40002 = ~No.~ 
 
 //#8331
-@40003 = ~Bienvenidos seáis, al menos hasta que no podáis pagar vuestra cuenta. Tened mucho cuidado con los rincones oscuros del "Canto", ya que la guardia hace la vista gorda con mucho de lo que sucede aquí. ¿Hay algo que pueda hacer por vosotros?~ 
+@40003 = ~Bienvenidos seáis, al menos hasta que no podáis pagar vuestra cuenta. Tened mucho cuidado con los rincones oscuros del Canto, ya que la guardia hace la vista gorda con mucho de lo que sucede aquí. ¿Hay algo que pueda hacer por vosotros?~ 
 
 //#8332
 @40004 = ~Vaya, vaya, mirad qué ha traído la marea. Os lo advierto ahora, haced lo que queráis aquí dentro, pero atraed la atención de la guardia de la ciudad sobre nosotros y acabaréis flotando en el mar sin bote, y mucho menos vela.~ 
 
 //#8380
-@40005 = ~Buenas tardes. El Yelmo y la Capa está listo para serviros de manera rápida y relajante. Confío en que seáis conscientes de que nuestras provisiones son un poco más caras que las de algunas de las posadas "menos respetadas" de la ciudad. Es cierto, aunque siempre he sostenido que recibes aquello por lo que pagas. ¿Hay algo que pueda hacer por vosotros?~ 
+@40005 = ~Buenas tardes. El Yelmo y la Capa está listo para serviros de manera rápida y relajante. Confío en que seáis conscientes de que nuestras provisiones son un poco más caras que las de algunas de las posadas menos respetadas de la ciudad. Es cierto, aunque siempre he sostenido que recibes aquello por lo que pagas. ¿Hay algo que pueda hacer por vosotros?~ 
 
 //#8381
 @40006 = ~¿Mmm? Hola. Bienvenidos al Yelmo y la Capa. Mientras estéis aquí podéis esperar un servicio superior y una calidad excelente... ejem... podéis PAGAR, ¿verdad? Mientras sea así, nos llevaremos de maravilla. Por favor, intentad no causar problemas mientras estéis aquí. Estamos bien protegidos y cualquier alboroto solo servirá para molestar a los demás huéspedes. ¿Hay algo que pueda hacer por vosotros?~ 
@@ -1182,7 +1183,7 @@ Tras derrotar a los ogros magos en el Bosque de los Cedros, Shilo Chen nos ha re
 @40045 = ~¡¡¡Buaaaaa!!! ¡Mi papá está muerto!~ 
 
 //#8197
-@40046 = ~Soy tu mejor amigo.~ 
+@40046 = ~Soy tu mejor amiga.~
 
 //#9027
 @40047 = ~¡Déjame en paz! ¡Eres malo!~ 
@@ -1206,7 +1207,7 @@ Tras derrotar a los ogros magos en el Bosque de los Cedros, Shilo Chen nos ha re
 @40053 = ~Oh, para cualquier mediano es de lo más emocionante conocer a quienes llevan dentro el espíritu del Hombrecito. Puede que seáis un poco... excéntricos por abandonar la comodidad de un hogar bien abastecido, pero estoy segura de que vuestras andanzas son emocionantes... si es que os gusta ese tipo de vida. Por favor, volved cuando queráis.~
 
 //#7845
-@40054 = ~Es una curiosidad entre muchos de nuestros jóvenes ver la esencia del gran Hombrecito errante en los actos de personas como vosotros. Yo, personalmente, encuentro poco atractivo abandonar el hogar y la familia. Quedaos cuanto queráis, pero procurad no alentar demasiado a los niños.~
+@40054 = ~Es una curiosidad entre muchos de nuestros jóvenes ver la esencia del gran Hombrecito aventurero en los actos de personas como vosotros. Yo, personalmente, encuentro poco atractivo abandonar el hogar y la familia. Quedaos cuanto queráis, pero procurad no alentar demasiado a los niños.~
 
 //#7846
 @40055 = ~¡Hum! ¡Y no me gustaría nada que él se viera expuesto a modales semejantes! Está claro que no pasáis mucho tiempo entre la gente menuda. Nadie que conociera nuestras costumbres sería tan grosero. Sois bienvenidos a regresar cuando aprendáis un poco de civismo.~
@@ -1218,7 +1219,7 @@ Tras derrotar a los ogros magos en el Bosque de los Cedros, Shilo Chen nos ha re
 @40057 = ~¡Cielos! ¿Cómo podéis ser tan descarados? Una intromisión así es inaudita entre la compañía que los medianos preferimos. El robo en sí no es más que una molestia menor, pero vuestra actitud desconsiderada... es casi más de lo que una mujer decente puede soportar. Por favor, marchaos.~
 
 //#7849
-@40058 = ~Así de fuerte es la llamada del camino errante. Es un anhelo del que todos hemos oído hablar en las historias del Hombrecito, aunque debo confesar que no logro comprenderlo del todo. Es mucho más reconfortante pasar las noches junto a la familia, al calor del hogar. Que tengáis buen viaje.~
+@40058 = ~Así de fuerte es la llamada del camino aventurero. Es un anhelo del que todos hemos oído hablar en las historias del Hombrecito, aunque debo confesar que no logro comprenderlo del todo. Es mucho más reconfortante pasar las noches junto a la familia, al calor del hogar. Que tengáis buen viaje.~
 
 //#7850
 @40059 = ~Así es la locura del Hombrecito. Qué impulsa a personas sensatas a vagar por los bosques lejos de su familia es algo que se me escapa. Aun así, os deseo buena suerte.~
@@ -1227,7 +1228,7 @@ Tras derrotar a los ogros magos en el Bosque de los Cedros, Shilo Chen nos ha re
 @40060 = ~Bienvenidos de nuevo. Pensé que ya os habríais marchado. Es un placer que no haya sido así.~
 
 //#7852
-@40061 = ~Me sorprende volver a veros. ¿No ha vuelto a apoderarse de vuestra razón la llamada del errante? Por Dallillia, espero que ninguno de los niños os siga cuando partáis.~
+@40061 = ~Me sorprende volver a veros. ¿No ha vuelto a apoderarse de vuestra razón la llamada del aventurero? Por Dallillia, espero que ninguno de los niños os siga cuando partáis.~
 
 //#7860
 @40062 = ~Quizá os apetezca quedaros un rato y contar algunas historias. Siempre me han gustado los relatos heroicos, aunque jamás desearía vivir uno.~
@@ -1242,7 +1243,7 @@ Tras derrotar a los ogros magos en el Bosque de los Cedros, Shilo Chen nos ha re
 @40065 = ~¿Sois siempre así de cortés con los extraños que entran en vuestra casa? No me parece nada seguro.~ 
 
 //#7821
-@40066 = ~Ahórrate tus sonrisas, tapón. Solo he entrado para ver si tenías algo que valiera la pena llevarse. Eres un necio por dejar tu madriguera sin cerrar.~ 
+@40066 = ~Ahórrate tus sonrisas, pequeñajo. Solo he entrado para ver si tenías algo que valiera la pena llevarse. Eres un necio por dejar tu madriguera sin cerrar.~ 
 
 //#7823
 @40067 = ~Mis disculpas, pero la puerta estaba abierta y pensé que vuestra madriguera estaba desierta. No pretendía entrometerme en vuestro hogar.~ 
@@ -1303,7 +1304,7 @@ Tras derrotar a los ogros magos en el Bosque de los Cedros, Shilo Chen nos ha re
 @40085 = ~¿Qué os parece mi nueva capa?~
 
 //#9765
-@40086 = ~Hola, hola. No supongo que os interesen unas cuantas baratijas, ¿verdad? ¿Un par de monedas por mis artículos finamente elaborados? Eh, ya me lo imaginaba. La escasez de hierro está remitiendo, pero aun así los clientes no regresan todavía. ¿Quién puede culparlos? Tienen miedo, porque ven que los mercaderes siguen sin mercancía. ¿Quién va a creer que la escasez ha terminado si aún no puede sostener una hoja nueva en sus manos? Yo culpo al Trono de Hierro. Y muchos otros también.~
+@40086 = ~Hola, hola. No supongo que os interesen unas cuantas baratijas, ¿verdad? ¿Un par de monedas por mis artículos finamente elaborados? Eh, ya me lo imaginaba. La escasez de hierro está remitiendo, pero aun así los clientes no regresan todavía. ¿Quién puede culparlos? Tienen miedo, porque ven que los mercaderes siguen sin existencias. ¿Quién va a creer que la escasez ha terminado si aún no puede sostener una hoja nueva en sus manos? Yo culpo al Trono de Hierro. Y muchos otros también.~
 
 //#9766
 @40087 = ~¿Por qué los culpáis? ¿Qué han hecho?~
@@ -1321,7 +1322,7 @@ Tras derrotar a los ogros magos en el Bosque de los Cedros, Shilo Chen nos ha re
 @40091 = ~Hablaba de las acciones del Trono de Hierro desde que Sarevok asumió su control. Se muestra indiferente y parece dispuesto a sacrificarlo para financiar el rearme de la Puerta de Baldur y, con ello, su aspiración a convertirse en Gran Duque. Es la inestabilidad del Trono de Hierro lo que ha prolongado los conflictos en la ciudad, y por eso otros mercaderes los culpan. Eran grandes importadores y, sin su ayuda, llevará mucho más tiempo tranquilizar a la gente y hacerles creer que todo está bien. No tiene ningún sentido comercial que actúen así, y creo que algo va muy mal en su sede.~
 
 //#10104
-@40092 = ~La escasez de hierro está remitiendo, pero los mercaderes siguen sin mercancía. Es la inestabilidad del Trono de Hierro lo que ha prolongado los conflictos en la ciudad, y por eso otros mercaderes los culpan. Eran grandes importadores y, sin su ayuda, llevará mucho más tiempo tranquilizar a la gente y convencerla de que todo va bien. Desde que Sarevok asumió el control han cesado la mayoría de las transacciones comerciales y congelado gran parte de sus activos. El hecho de que esté arruinando una gran casa mercantil parece no importarle en absoluto. Se muestra indiferente y parece dispuesto a sacrificarla para financiar el rearme de la Puerta de Baldur y así impulsar su candidatura a Gran Duque. No puedo imaginar a comerciantes sensatos obedeciendo órdenes así. Sin duda, algo muy extraño ocurre en el edificio del Trono de Hierro.~
+@40092 = ~La escasez de hierro está remitiendo, pero los mercaderes siguen sin existencias. Es la inestabilidad del Trono de Hierro lo que ha prolongado los conflictos en la ciudad, y por eso otros mercaderes los culpan. Eran grandes importadores y, sin su ayuda, llevará mucho más tiempo tranquilizar a la gente y convencerla de que todo va bien. Desde que Sarevok asumió el control han cesado la mayoría de las transacciones comerciales y congelado gran parte de sus activos. El hecho de que esté arruinando una gran casa mercantil parece no importarle en absoluto. Se muestra indiferente y parece dispuesto a sacrificarla para financiar el rearme de la Puerta de Baldur y así impulsar su candidatura a Gran Duque. No puedo imaginar a comerciantes sensatos obedeciendo órdenes así. Sin duda, algo muy extraño ocurre en el edificio del Trono de Hierro.~
 
 //#9779
 @40093 = ~Nada directo, supongo, aunque el impacto sigue siendo duro. Desde que Sarevok asumió el control han cesado la mayoría de las transacciones comerciales y congelado gran parte de sus activos. Eran grandes importadores y, sin su ayuda activa, pasará mucho más tiempo antes de que el ciudadano medio sienta que la crisis ha terminado. Parece que Sarevok pretende usar el Trono de Hierro para respaldar su postura dura contra Amn y, con ello, su aspiración al cargo de Gran Duque. El hecho de que esté arruinando una gran casa mercantil parece no importarle en absoluto. No puedo imaginar a comerciantes sensatos siguiendo tales directrices. Algo muy extraño ocurre en el edificio del Trono de Hierro.~
@@ -1369,8 +1370,8 @@ Tras derrotar a los ogros magos en el Bosque de los Cedros, Shilo Chen nos ha re
 @40107 = ~¡Prefiero el maldito silencio que dejó la Dama antes que tus alaridos! ¡No me obligues a repetirlo!~
 
 //#8373
-@40108 = ~Oye, amigo, deberíamos pasarnos por la Bodega Subterránea y echar un vistazo a las chicas del festival. ¿Qué te parece?~
-~Oye, amiga, deberíamos pasarnos por la Bodega Subterránea y echar un vistazo a las chicas del festival. ¿Qué te parece?~
+@40108 = ~Oye, amigo, deberíamos pasarnos por el Bajosótano y echar un vistazo a las chicas del festival. ¿Qué te parece?~
+~Oye, amiga, deberíamos pasarnos por el Bajosótano y echar un vistazo a las chicas del festival. ¿Qué te parece?~
 
 //#8799
 @40109 = ~No tengo nada de valor aquí. Por favor, dejad mi hogar tal y como está.~
@@ -1460,7 +1461,7 @@ Tras derrotar a los ogros magos en el Bosque de los Cedros, Shilo Chen nos ha re
 @40136 = ~¡JA! Me conocéis bien y, sin embargo, nunca nos hemos visto. ¡No importa, porque somos amigos hasta la muerte! Así lo jura Wade, sin distinción alguna. Será mejor que os mantengáis alejados de la ruta comercial del norte, no sea que una condición que ponga fin a la amistad ocurra mucho antes de lo previsto.~
 
 //#7934
-@40137 = ~Y entonchesh le desía al tipo, "pero shi esa es tu hermana, ¿dónde eshtá mi MUJER?" ¡JA! Oh, lo siento, ¿acabo de escupiros? ¡Oh, mi amigo ha vuelto! Solo intento beber lo suficiente para armarme de valor y volver a ese polvoriento camino. Aunque quizás me quede un poco más; el cielo está despejado pero mi propia cabeza está nublada.~
+@40137 = ~Y entonchesh le desía al tipo, pero shi esa es tu hermana, ¿dónde eshtá mi MUJER? ¡JA! Oh, lo siento, ¿acabo de escupiros? ¡Oh, mi amigo ha vuelto! Solo intento beber lo suficiente para armarme de valor y volver a ese polvoriento camino. Aunque quizás me quede un poco más; el cielo está despejado pero mi propia cabeza está nublada.~
 
 //#7935
 @40138 = ~Vaya, qué sorpresa más inesperada; el cascarrabias ha vuelto a la tierra de los juerguistas. ¿Confío en que seréis un poco más amable?~
@@ -1473,7 +1474,7 @@ Tras derrotar a los ogros magos en el Bosque de los Cedros, Shilo Chen nos ha re
 @40140 = ~¡Eh, tú! Necesito algo de dinero y algo de curación; ¡si sabes lo que te conviene, me lo darás!~
 
 //#5097
-@40141 = ~¡¿Tenéis que estar bromeando?! Eres un solo hobgoblin, ¿por qué deberíamos hacer otra cosa que no fuera matarte?~
+@40141 = ~¡¿Tenéis que estar bromeando?! Eres un solo gran trasgo, ¿por qué deberíamos hacer otra cosa que no fuera matarte?~
 
 //#5098
 @40142 = ~Toma, coge 25 piezas de oro.~
@@ -1512,13 +1513,13 @@ Tras derrotar a los ogros magos en el Bosque de los Cedros, Shilo Chen nos ha re
 @40153 = ~Las Garras Negras son un grupo de mercenarios, son parte del grupo que ha estado asaltando las caravanas de mercaderes. Me perdí en una incursión hace un par de días, y algunos miembros del Puño Llameante me han estado siguiendo los pasos. Ahí está, os he dicho lo que queríais oír.~
 
 //#7013
-@40154 = ~Un hobgoblin nos dijo que trabajaba para una compañía de mercenarios conocida como los Escalofrío. Los Escalofrío han estado asaltando el Camino de la Costa.~
+@40154 = ~Un gran trasgo nos dijo que trabajaba para una compañía de mercenarios conocida como los Escalofrío. Los Escalofrío han estado asaltando el Camino de la Costa.~
 
 //#6259
 @40155 = ~Solo soy un miembro menor de Escalofrío. Los Escalofríos es un grupo mercenario que ha sido contratado por los Zhentarim para interrumpir el paso del hierro por esta región.~
 
 //#7012
-@40156 = ~Un hobgoblin al que hechizamos nos dijo que trabajaba para una banda de mercenarios conocida como los Escalofrío. Según él, Escalofrío trabaja para los Zhentarim.~
+@40156 = ~Un gran trasgo al que hechizamos nos dijo que trabajaba para una banda de mercenarios conocida como los Escalofrío. Según él, Escalofrío trabaja para los Zhentarim.~
 
 //#6260
 @40157 = ~¡Dejadme en paz!~

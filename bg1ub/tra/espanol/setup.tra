@@ -29,7 +29,7 @@
 @9    = ~Branwen y Tranzig~
 @10   = ~Safana, la coqueta~
 
-@12   = ~Recompensa apropiada por Albert y Rufie~
+@12   = ~Recompensa apropiada de Albert y Rufie~
 @13   = ~Situar a Entar Escudo de Plata en su hogar~
 @14   = ~Scar y la hija de los Sashenstar~
 
@@ -58,12 +58,12 @@
 
 /* new v13.1 */
 @116  = ~Ajuste de Prism y las esmeraldas~
-@219  = ~El Duque Eltan en el edificio del Capitán del Puerto~
+@219  = ~El Duque Eltan en el edificio del capitán del puerto~
 
 /* new v14 */
 @4000 = ~Encuentro con Nim Furlwing~
-@4100 = ~Película restaurada de la Taberna del Canto del Elfo~
-@4101 = ~Este componente no es compatible con BGEE. Se incluye una versión compatible de este video en el mod "BG:EE Classic Movies".~
+@4100 = ~Película de la Taberna Canción Élfica restaurada~
+@4101 = ~Este componente no es compatible con BGEE. Se incluye una versión compatible de esta película en el mod "BG:EE Classic Movies".~
 @4200 = ~Encuentro con Svlast, el paladín caído~
 @4300 = ~Mal-Kalen, el fantasma de Ulcaster~
 @4400 = ~Restauraciones de diálogos del Capítulo 6~

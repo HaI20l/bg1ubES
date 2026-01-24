@@ -1,48 +1,48 @@
 //item strings for Prism Emeralds
-@117 = ~Una esmeralda es un berilo de color verde brillante, exfoliado en líneas rectas, con un tallado rectangular en la gema terminada. Las esmeraldas se asocian a menudo con la salud, por lo que se utilizan ornamentalmente con ese propósito. Esta esmeralda está marcada con una pequeña «L». Fue robada por Prism para usarla en una estatua de su amada, Ellesime. Se supone que esta gema estaba destinada a ser el ojo izquierdo. Háyase usado o no en la estatua, existe una recompensa por devolverla a las autoridades competentes.~ 
-@118 = ~Una esmeralda es un berilo de color verde brillante, exfoliado en líneas rectas, con un tallado rectangular en la gema terminada. Las esmeraldas se asocian a menudo con la salud, por lo que se utilizan ornamentalmente con ese propósito. Esta esmeralda está marcada con una pequeña «R». Fue robada por Prism para usarla en una estatua de su amada, Ellesime. Se supone que esta gema estaba destinada a ser el ojo derecho. Háyase usado o no en la estatua, existe una recompensa por devolverla a las autoridades competentes.~
+@117 = ~Una esmeralda es un berilo de color verde brillante, exfoliado en líneas rectas, con un tallado rectangular en la gema acabada. Las esmeraldas se asocian a menudo con la salud, por lo que se utilizan ornamentalmente con ese propósito. Esta esmeralda está marcada con una pequeña «L». Fue robada por Prism para usarla en una estatua de su amada, Ellesime. Se supone que esta gema estaba destinada a ser el ojo izquierdo. Háyase usado o no en la estatua, existe una recompensa por devolverla a las autoridades competentes.~ 
+@118 = ~Una esmeralda es un berilo de color verde brillante, exfoliado en líneas rectas, con un tallado rectangular en la gema acabada. Las esmeraldas se asocian a menudo con la salud, por lo que se utilizan ornamentalmente con ese propósito. Esta esmeralda está marcada con una pequeña «R». Fue robada por Prism para usarla en una estatua de su amada, Ellesime. Se supone que esta gema estaba destinada a ser el ojo derecho. Háyase usado o no en la estatua, existe una recompensa por devolverla a las autoridades competentes.~
 
 //journal entries for vanilla BG1: no title
 @119 = ~Qué necio es ese Prism. Realmente se creyó que no sabía nada sobre la pérdida de esas esmeraldas. En fin... su pérdida es mi ganancia.~ 
-@120 = ~Quizás estuvo mal, pero después de permitir que Prism terminara su "obra maestra final", he tomado una de las esmeraldas de los ojos de la estatua. Debería alcanzar un precio elevado en el lugar adecuado o una recompensa decente...~ 
-@121 = ~Tras un poco de arduo trabajo, finalmente extraje la segunda esmeralda que Prism había robado para usarla en uno de los ojos de su "obra maestra final".~ 
+@120 = ~Quizás estuvo mal, pero después de permitir que Prism terminara su obra maestra final, he tomado una de las esmeraldas de los ojos de la estatua. Debería alcanzar un precio elevado en el lugar adecuado o una recompensa decente...~ 
+@121 = ~Tras un poco de arduo trabajo, finalmente extraje la segunda esmeralda que Prism había robado para usarla en uno de los ojos de su obra maestra final.~ 
 @122 = ~La historia de Prism fue realmente triste. Una lástima que no pudiera haber tenido un final mejor. Bueno, al final salgo ganando. 300 monedas de oro de recompensa por las esmeraldas que robó.~ 
 @123 = ~La próxima vez tendré que recordarme no fingir ser otro solo por un poco de oro rápido. Aunque Oublek se quedó con una parte, finalmente fui recompensado por entregar las esmeraldas de Prism.~ 
 /* Unused line for Captain Brage Journal entry
 @ = ~La próxima vez tendré que recordarme no fingir ser otro solo por un poco de oro rápido. Aunque Oublek se quedó con una parte, finalmente fui recompensado por entregar al Capitán Brage.~ 
 */
-@124 = ~Logré tomar unas esmeraldas que el escultor Prism estaba usando como ojos en una estatua. Sin embargo, se dio cuenta. Me vi obligado a terminar con su miseria después de que se abalanzara sobre mí con un cincel.~ 
+@124 = ~Logré tomar unas esmeraldas que Prism el escultor estaba usando como ojos en una estatua. Sin embargo, se dio cuenta. Me vi obligado a terminar con su miseria después de que se abalanzara sobre mí con un cincel.~ 
 @125 = ~Entregada una esmeralda por una recompensa de 150 monedas de oro. Podré obtener la otra mitad de la recompensa si consigo traer la otra esmeralda. Debe estar en algún lugar cerca de donde recogí la anterior.~ 
 @126 = ~Solo la mitad de una recompensa reducida por entregar una de las esmeraldas de Prism. Unas míseras 75 monedas de oro. Si consiguiera la otra esmeralda, sería prudente consultar con algunos mercaderes antes de reclamar la recompensa oficial.~
 //journal entries for bg2 engine
 //Tutu
-@127 = ~El escultor Prism
+@127 = ~Prism el escultor
 
 Qué necio es ese Prism. Realmente se creyó que no sabía nada sobre la pérdida de esas esmeraldas. En fin... su pérdida es mi ganancia.~ 
-@128 = ~El escultor Prism
+@128 = ~Prism el escultor
 
-Quizás estuvo mal, pero después de permitir que Prism terminara su "obra maestra final", he tomado una de las esmeraldas de los ojos de la estatua. Debería alcanzar un precio elevado en el lugar adecuado o una recompensa decente...~ 
-@129 = ~El escultor Prism
+Quizás estuvo mal, pero después de permitir que Prism terminara su obra maestra final, he tomado una de las esmeraldas de los ojos de la estatua. Debería alcanzar un precio elevado en el lugar adecuado o una recompensa decente...~ 
+@129 = ~Prism el escultor
 
-Tras un poco de arduo trabajo, finalmente extraje la segunda esmeralda que Prism había robado para usarla en uno de los ojos de su "obra maestra final".~ 
-@130 = ~El escultor Prism
+Tras un poco de arduo trabajo, finalmente extraje la segunda esmeralda que Prism había robado para usarla en uno de los ojos de su obra maestra final.~ 
+@130 = ~Prism el escultor
 
 La historia de Prism fue realmente triste. Una lástima que no pudiera haber tenido un final mejor. Bueno, al final salgo ganando. 300 monedas de oro de recompensa por las esmeraldas que robó.~ 
-@131 = ~El escultor Prism
+@131 = ~Prism el escultor
 
 La próxima vez tendré que recordarme no fingir ser otro solo por un poco de oro rápido. Aunque Oublek se quedó con una parte, finalmente fui recompensado por entregar las esmeraldas de Prism.~ 
 /* Unused line for Captain Brage Journal entry
-@ = ~El escultor Prism
+@ = ~Prism el escultor
 
 La próxima vez tendré que recordarme no fingir ser otro solo por un poco de oro rápido. Aunque Oublek se quedó con una parte, finalmente fui recompensado por entregar al Capitán Brage.~ 
 */
-@132 = ~El escultor Prism
+@132 = ~Prism el escultor
 
-Logré tomar unas esmeraldas que el escultor Prism estaba usando como ojos en una estatua. Sin embargo, se dio cuenta. Me vi obligado a terminar con su miseria después de que se abalanzara sobre mí con un cincel.~ 
-@133 = ~El escultor Prism
+Logré tomar unas esmeraldas que Prism el escultor estaba usando como ojos en una estatua. Sin embargo, se dio cuenta. Me vi obligado a terminar con su miseria después de que se abalanzara sobre mí con un cincel.~ 
+@133 = ~Prism el escultor
 
 Entregada una esmeralda por una recompensa de 150 monedas de oro. Podré obtener la otra mitad de la recompensa si consigo traer la otra esmeralda. Debe estar en algún lugar cerca de donde recogí la anterior.~ 
-@134 = ~El escultor Prism
+@134 = ~Prism el escultor
 
 Solo la mitad de una recompensa reducida por entregar una de las esmeraldas de Prism. Unas míseras 75 monedas de oro. Si consiguiera la otra esmeralda, sería prudente consultar con algunos mercaderes antes de reclamar la recompensa oficial.~
 //BGT
@@ -51,10 +51,10 @@ Solo la mitad de una recompensa reducida por entregar una de las esmeraldas de P
 Qué necio es ese Prism. Realmente se creyó que no sabía nada sobre la pérdida de esas esmeraldas. En fin... su pérdida es mi ganancia.~ 
 @211 = ~Prism, el ladrón de esmeraldas.
 
-Quizás estuvo mal, pero después de permitir que Prism terminara su "obra maestra final", he tomado una de las esmeraldas de los ojos de la estatua. Debería alcanzar un precio elevado en el lugar adecuado o una recompensa decente...~ 
+Quizás estuvo mal, pero después de permitir que Prism terminara su obra maestra final, he tomado una de las esmeraldas de los ojos de la estatua. Debería alcanzar un precio elevado en el lugar adecuado o una recompensa decente...~ 
 @212 = ~Prism, el ladrón de esmeraldas.
 
-Tras un poco de arduo trabajo, finalmente extraje la segunda esmeralda que Prism había robado para usarla en uno de los ojos de su "obra maestra final".~ 
+Tras un poco de arduo trabajo, finalmente extraje la segunda esmeralda que Prism había robado para usarla en uno de los ojos de su obra maestra final.~ 
 @213 = ~Prism, el ladrón de esmeraldas.
 
 La historia de Prism fue realmente triste. Una lástima que no pudiera haber tenido un final mejor. Bueno, al final salgo ganando. 300 monedas de oro de recompensa por las esmeraldas que robó.~ 
@@ -68,7 +68,7 @@ La próxima vez tendré que recordarme no fingir ser otro solo por un poco de or
 */ 
 @216 = ~Prism, el ladrón de esmeraldas.
 
-Logré tomar unas esmeraldas que el escultor Prism estaba usando como ojos en una estatua. Sin embargo, se dio cuenta. Me vi obligado a terminar con su miseria después de que se abalanzara sobre mí con un cincel.~ 
+Logré tomar unas esmeraldas que Prism el escultor estaba usando como ojos en una estatua. Sin embargo, se dio cuenta. Me vi obligado a terminar con su miseria después de que se abalanzara sobre mí con un cincel.~ 
 @217 = ~Prism, el ladrón de esmeraldas.
 
 Entregada una esmeralda por una recompensa de 150 monedas de oro. Podré obtener la otra mitad de la recompensa si consigo traer la otra esmeralda. Debe estar en algún lugar cerca de donde recogí la anterior.~ 
@@ -88,7 +88,7 @@ Solo la mitad de una recompensa reducida por entregar una de las esmeraldas de P
 
 //prism dialog
 @1100 = ~¡Cómo osas! ¡Cómo te atreves a quitarle el brillo de sus ojos!~ 
-@1101 = ~Tengo mucho trabajo que hacer. ¿Pero tal vez ayudarías a un necio escultor a terminar esta epifanía ahora? Por favor, custodia este lugar, pues seguramente vendrá Greywolf. ¡Te pagaré con mis últimas posesiones!~ 
+@1101 = ~Tengo mucho trabajo que hacer. ¿Pero tal vez ayudarías a un necio escultor a terminar esta epifanía ahora? Por favor, custodia este lugar, pues seguramente vendrá Lobo Gris. ¡Te pagaré con mis últimas posesiones!~ 
 @1102 = ~¡Espera! Te llevaste mis esmeraldas. Debo recuperarlas. Las necesito para terminar esta epifanía. Por favor, por favor, devuélvelas. Te daré todo lo que tengo.~ 
 @1103 = ~Se han ido. Entregadas a las autoridades. Nunca terminarás ese pedazo de roca ahora.~ 
 @1104 = ~Se han ido. Vendidas a estas alturas para colgar del cuello como la baratija de alguna mujer gorda.~ 

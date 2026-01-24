@@ -3,7 +3,7 @@
 @2 = ~En realidad no hay mucho que contar. Algunos kobolds encontraron el camino hacia las minas y causaron estragos. Pero ya no tenéis que preocuparos más por ellos.~ 
 @3 = ~Un semiorco llamado Mulahey estaba corrompiendo el mineral de hierro de alguna manera, pero ahora está muerto.~ 
 @4 = ~Un semiorco llamado Mulahey estaba corrompiendo el mineral de hierro con un veneno. Tengo una muestra aquí.~ 
-@5 = ~Un semiorco llamado Mulahey estaba corrompiendo el mineral de hierro con un veneno. Tengo una muestra del mineral corrompido aquí.~ 
+@5 = ~Un semiorco llamado Mulahey estaba corrompiendo el mineral de hierro con un veneno. Tengo una muestra del mineral contaminado aquí.~ 
 @6 = ~Un semiorco llamado Mulahey estaba corrompiendo el mineral de hierro con un veneno. Estoy investigando el problema.~ 
 @7 = ~Como deseéis. La ciudad os lo agradece de todo corazón y se complace en daros la recompensa adecuada. Por favor, tomad estas 900 monedas de oro por vuestros esfuerzos. Es una pequeña fortuna para cualquiera. Gracias de nuevo.~ 
 @8 = ~Ya veo. Es curioso cómo una banda tan organizada pudo surgir sin previo aviso. Aun así, la ciudad os lo agradece de todo corazón y se complace en daros la recompensa adecuada. Por favor, tomad estas 900 monedas de oro por vuestros esfuerzos. Es una pequeña fortuna para cualquiera. Gracias de nuevo.~ 
@@ -26,18 +26,18 @@
 @25 = ~Taerom Fuiruim está examinando el mineral contaminado que recuperé de las minas de Nashkel. Cree que ahora debería ser capaz de producir un hierro menos quebradizo como resultado.~ 
 @26 = ~No puedo hacer mucho más. Si sois capaces de encontrar una muestra del veneno, llevadla ante Thalantyr; él no debería tener problemas para discernir sus propiedades. Mientras tanto, veré qué puedo hacer para contrarrestar las propiedades de este mineral. Debería ser capaz de reducir los efectos del compuesto.~ 
 @27 = ~Entonces me pondré en contacto con él y descubriré qué ha hallado. Tenéis mi agradecimiento por ponerme sobre aviso.~ 
-@28 = ~Berrun Ghastkill sugirió que podríais estar interesado en examinar este vial. Es un veneno que se usó para contaminar el mineral de las minas de Nashkel, causando problemas con el hierro a lo largo de la Costa de la Espada.~ 
+@28 = ~Berrun Muertenecrario sugirió que podríais estar interesado en examinar este vial. Es un veneno que se usó para contaminar el mineral de las minas de Nashkel, causando problemas con el hierro a lo largo de la Costa de la Espada.~ 
 @29 = ~Taerom Fuiruim sugirió que podríais estar interesado en examinar este vial. Es un veneno que se usó para contaminar el mineral de las minas de Nashkel, causando problemas con el hierro a lo largo de la Costa de la Espada.~ 
 @30 = ~Un compuesto notable. Debe haber hecho falta un alquimista experto para confeccionar esto. Quizás pueda formular un antídoto para salvar algunas de las existencias actuales de hierro, aunque dudo que sea suficiente para resolver la crisis. Dejádmelo a mí, y me pondré en contacto con Taerom si tengo éxito.~ 
 @31 = ~Le mostré un vial de veneno de las minas de Nashkel a Thalantyr. Accedió a examinarlo e intentar crear un antídoto. Con suerte, esto tendrá algún efecto en la crisis del hierro, aunque no podemos esperar demasiado.~
 
 @32 = ~El mineral contaminado.
 
-Berrun Ghastkill quiere que lleve el vial del misterioso veneno que recuperé de las minas de Nashkel a Thalantyr, en Seto Alto. El poderoso mago podría ser capaz de analizarlo. Y en caso de que encuentre otro trozo de mineral contaminado, debería ir a ver a Taerom Fuiruim.~
+Berrun Muertenecrario quiere que lleve el vial del misterioso veneno que recuperé de las minas de Nashkel a Thalantyr, en Seto Alto. El poderoso mago podría ser capaz de analizarlo. Y en caso de que encuentre otro trozo de mineral contaminado, debería ir a ver a Taerom Fuiruim.~
 
 @33 = ~El mineral contaminado.
 
-Berrun Ghastkill quiere que lleve el mineral contaminado que recuperé de las minas de Nashkel a Taerom Fuiruim, en Beregost. Quizás el experto herrero pueda ayudarnos con eso.~
+Berrun Muertenecrario quiere que lleve el mineral contaminado que recuperé de las minas de Nashkel a Taerom Fuiruim, en Beregost. Quizás el experto herrero pueda ayudarnos con eso.~
 
 //@25 with header: 
 @34 = ~El mineral contaminado.

@@ -24,7 +24,7 @@
 /* #14891 - MODIFIED */ 
 @4222 = ~Fui paladín, una vez. Luché en el bando del bien, pero todo queda en nada... Lo asesiné a sangre fría, a mi hermano en la fe... Cuando venga, dejadlo estar.~ 
 /* #14893 - MODIFIED */ 
-@4223 = ~¿Qué habéis hecho? ¡Ahora soy el doble de miserable! ¡Matadme en este lugar torturado! Al menos así habrá algo de justicia.~ 
+@4223 = ~¿Qué habéis hecho? ¡Ahora soy aún más desgraciado! ¡Mátadme en este atormentado lugar! Al menos así habrá algo de justicia.~ 
 /* #14894 */ 
 @4224 = ~¿Qué podrías esperar aprender de un necio miserable como yo? Aprende de mi ejemplo, al menos, y no busques matar aquello que es bueno en el mundo.~ 
 /* #14895 */ 
@@ -35,7 +35,7 @@
 
 // Replies 
 @4240 = ~¿De qué estás hablando? ¿Quién viene a por nosotros?~ 
-@4241 = ~¿Quién era esa persona? ¿Por qué te caza desde el más allá?~ 
+@4241 = ~¿Quién era esa persona? ¿Por qué te acecha desde el más allá?~ 
 @4242 = ~¿Estás loco? ¡No me quedaré de brazos cruzados dejando que esa criatura te mate!~ 
 @4243 = ~Como desees. No estoy de acuerdo con tu decisión, pero si es tu elección morir a manos de esa criatura, no me interpondré.~ 
 @4244 = ~No hay problema. Esto es entre él y tú. ¡No quiero tener nada que ver!~ 

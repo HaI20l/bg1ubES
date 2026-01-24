@@ -2,8 +2,8 @@
 
 //CRE Sounds
 /* 4852 */
-@4302 = ~[MAL-KALEN 1] ¡Liberadme! ¡Liberadme! Devolvedme al cuerpo para terminar con mi vida. ¡Debo vengarme!~ [MALKL01]
-@4303 = ~[MAL-KALEN 2] ¡Liberad el cuerpo! Vivir de nuevo, ¡sí!~ [MALKL02]
+@4302 = ~[MAL-KALEN 1] ¡Liberadme! ¡Liberadme! Volveré al cuerpo para acabar su vida. ¡Debo vengarme!~ [MALKL01]
+@4303 = ~[MAL-KALEN 2] ¡Liberad el cuerpo! Volveré a vivir, ¡yo!~ [MALKL02]
 @4304 = ~[MAL-KALEN 3] ~ [MALKL03]
 @4305 = ~[MAL-KALEN 4] ~ [MALKL04]
 @4306 = ~[REVENANT 01] ~ [REVEN01]
@@ -12,7 +12,7 @@
 @4309 = ~[REVENANT 06] ~ [REVEN06]
 
 //Dialog
-@4310 = ~Ayúdadme... cuerpo dentro... solo una sombra yo... dentro del cuerpo... ¡viviré de nuevo! ¡Venganza contra los destructores!~ /* #2472 */ 
+@4310 = ~Ayúdame... el cuerpo está dentro... solo una sombra... yo... dentro del cuerpo... ¡viviré de nuevo! ¡Venganza contra los destructores!~ /* #2472 */ 
 @4311 = ~Pobre criatura, ¿quién fuiste en vida?~ /* #2474 */ 
 @4312 = ~¿No hay descanso para tu espíritu? ¿Qué te retiene en este lugar?~ /* #2476 */ 
 @4313 = ~¡Atrás, horror no muerto! ¡Atrás, a menos que desees morir de nuevo!~ /* #2475 */ 
