@@ -685,7 +685,7 @@ No permitido a:
 @20073 = ~Hola de nuevo, mis jóvenes aventureros. Veo que tenéis el componente necesario. Bueno, ¿vemos si nuestro joven recupera la vida o si acabará siendo la cena de algún salón de festejos?~
 
 //#7012
-@20074 = ~Un gran trasgo al que hechizamos nos dijo que trabajaba para una banda de mercenarios conocida como los Escalofrío. Según él, Escalofrío trabaja para los Zhentarim.~
+@20074 = ~Un gran trasgo al que hechizamos nos dijo que trabajaba para una banda de mercenarios conocida como los Escalofrío. Según él, Escalofrío trabaja para los Zhentárim.~
 
 //#6260
 @20075 = ~¡Dejadme en paz!~
@@ -1110,8 +1110,8 @@ Tras derrotar a los ogros magos en el Bosque de Dientes Afilados, Shilo Chen nos
 @40021 = ~¿Quiénes sois? ¿Qué estáis haciendo en mi finca? ¡Guardias! Tenemos intrusos.~ 
 
 //#6136
-@40022 = ~¡Soy Entar Escudo de Plata, uno de los Grandes Duques de la Puerta de Baldur! Puedo deciros muchas cosas, amigo. Quizá os interese oír hablar del Trono de Hierro. Son una nueva organización mercantil que se ha instalado en la Puerta de Baldur. A la mayoría nos preocupan algunas de las acciones del Trono de Hierro, pero han prometido suministrarnos hierro, un recurso que ha sido muy escaso últimamente. Sospechamos de Amn, nuestro vecino del sur. Creemos que Amn se ha aliado con los Zhentarim en un intento de anexionar nuestra gloriosa ciudad. Sin embargo, Scar cree que las pruebas contra Amn eran demasiado fáciles de conseguir, casi como si alguien estuviera intentando incriminar a Amn para causar fricción entre nuestras dos naciones. Puesto que sois mi mejor amigo, debería deciros que tengo una hija muy hermosa. Se llama Skie y ya está en edad de merecer.~ 
-~¡Soy Entar Escudo de Plata, uno de los Grandes Duques de la Puerta de Baldur! Puedo deciros muchas cosas, amiga. Quizá os interese oír hablar del Trono de Hierro. Son una nueva organización mercantil que se ha instalado en la Puerta de Baldur. A la mayoría nos preocupan algunas de las acciones del Trono de Hierro, pero han prometido suministrarnos hierro, un recurso que ha sido muy escaso últimamente. Sospechamos de Amn, nuestro vecino del sur. Creemos que Amn se ha aliado con los Zhentarim en un intento de anexionar nuestra gloriosa ciudad. Sin embargo, Scar cree que las pruebas contra Amn eran demasiado fáciles de conseguir, casi como si alguien estuviera intentando incriminar a Amn para causar fricción entre nuestras dos naciones. Puesto que sois mi mejor amiga, debería deciros que tengo una hija muy hermosa. Se llama Skie y ya está en edad de merecer.~
+@40022 = ~¡Soy Entar Escudo de Plata, uno de los Grandes Duques de la Puerta de Baldur! Puedo deciros muchas cosas, amigo. Quizá os interese oír hablar del Trono de Hierro. Son una nueva organización mercantil que se ha instalado en la Puerta de Baldur. A la mayoría nos preocupan algunas de las acciones del Trono de Hierro, pero han prometido suministrarnos hierro, un recurso que ha sido muy escaso últimamente. Sospechamos de Amn, nuestro vecino del sur. Creemos que Amn se ha aliado con los Zhentárim en un intento de anexionar nuestra gloriosa ciudad. Sin embargo, Scar cree que las pruebas contra Amn eran demasiado fáciles de conseguir, casi como si alguien estuviera intentando incriminar a Amn para causar fricción entre nuestras dos naciones. Puesto que sois mi mejor amigo, debería deciros que tengo una hija muy hermosa. Se llama Skie y ya está en edad de merecer.~ 
+~¡Soy Entar Escudo de Plata, uno de los Grandes Duques de la Puerta de Baldur! Puedo deciros muchas cosas, amiga. Quizá os interese oír hablar del Trono de Hierro. Son una nueva organización mercantil que se ha instalado en la Puerta de Baldur. A la mayoría nos preocupan algunas de las acciones del Trono de Hierro, pero han prometido suministrarnos hierro, un recurso que ha sido muy escaso últimamente. Sospechamos de Amn, nuestro vecino del sur. Creemos que Amn se ha aliado con los Zhentárim en un intento de anexionar nuestra gloriosa ciudad. Sin embargo, Scar cree que las pruebas contra Amn eran demasiado fáciles de conseguir, casi como si alguien estuviera intentando incriminar a Amn para causar fricción entre nuestras dos naciones. Puesto que sois mi mejor amiga, debería deciros que tengo una hija muy hermosa. Se llama Skie y ya está en edad de merecer.~
 
 //#6598
 @40023 = ~Cuando hechizamos a Entar Escudo de Plata nos contó bastantes cosas. Dijo que el Trono de Hierro se había instalado recientemente en la Puerta de Baldur y se ofrecía a vender hierro a la ciudad. Los Grandes Duques están preocupados por una invasión de Amn y, por tanto, se están tomando en serio la oferta del Trono de Hierro, a pesar de algunas reservas sobre sus intenciones.~ 
@@ -1517,10 +1517,10 @@ Tras derrotar a los ogros magos en el Bosque de Dientes Afilados, Shilo Chen nos
 @40154 = ~Un gran trasgo nos dijo que trabajaba para una compañía de mercenarios conocida como los Escalofrío. Los Escalofrío han estado asaltando el Camino de la Costa.~
 
 //#6259
-@40155 = ~Solo soy un miembro menor de Escalofrío. Los Escalofríos es un grupo mercenario que ha sido contratado por los Zhentarim para interrumpir el paso del hierro por esta región.~
+@40155 = ~Solo soy un miembro menor de Escalofrío. Los Escalofríos es un grupo mercenario que ha sido contratado por los Zhentárim para interrumpir el paso del hierro por esta región.~
 
 //#7012
-@40156 = ~Un gran trasgo al que hechizamos nos dijo que trabajaba para una banda de mercenarios conocida como los Escalofrío. Según él, Escalofrío trabaja para los Zhentarim.~
+@40156 = ~Un gran trasgo al que hechizamos nos dijo que trabajaba para una banda de mercenarios conocida como los Escalofrío. Según él, Escalofrío trabaja para los Zhentárim.~
 
 //#6260
 @40157 = ~¡Dejadme en paz!~
